@@ -20,4 +20,29 @@ body {
 
   .container {
     border: 1px solid black;
+    display: flex;
+    padding: 40px;
+    flex-direction: row;
+    justify-content: space-around;
+
   }
+
+  .main {
+    order: 2;
+
+  }
+
+  .cat { 
+    order: 1;
+
+  }
+
+.g {
+    order: 3;
+
+}
+
+.lala {
+    display: flex;
+    justify-content: center;
+}
