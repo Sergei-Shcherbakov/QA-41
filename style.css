@@ -29,9 +29,15 @@ body {
 
   .main {
     order: 2;
+  }
+  .main:active {
+    border: 1px solid black;
+    color: rgb(255, 38, 0);
 
   }
-
+.main a:hover {
+    color: rgb(197, 168, 5);
+}
   .cat { 
     order: 1;
 
@@ -62,6 +68,7 @@ border: 1px solid black;
 /* justify-content: space-around; */
 height: 70vh;
 width: 160vh;
+
 }
 .one {
     display: flex;
@@ -97,9 +104,10 @@ width: 160vh;
 }
 .third {
     display: flex;
+  
     border: 1px solid black;
     justify-content: space-around;
     height: 60vh;
     /* width: 160vh; */
-
+    
 }
