@@ -40,9 +40,66 @@ body {
 .g {
     order: 3;
 
+
 }
 
 .lala {
     display: flex;
     justify-content: center;
+}
+.first{
+/* display: flex; */
+padding: 40px;
+border: 1px solid black;
+/* justify-content: space-around; */
+height: 90vh;
+width: 180vh;
+}
+.second {
+/* display: flex; */
+padding: 40px;
+border: 1px solid black;
+/* justify-content: space-around; */
+height: 70vh;
+width: 160vh;
+}
+.one {
+    display: flex;
+    order: 1;
+    /* border: 1px solid black; */
+    justify-content: space-around;
+    /* justify-self: flex-end;
+    align-self: flex-end; */
+  
+    /* flex-direction: column; */
+    
+
+    /* height: 35vh;
+    width: 40vh; */
+}
+.two {
+    order: 2;   
+
+}
+.tree {
+    order: 3;
+
+}
+.CAT {
+    display: flex;
+    /* padding: 40px; */
+    justify-self: center;
+    align-self: center;
+    height: 10vh;
+    width: 10vh;
+    /* padding: 80px; */
+
+}
+.third {
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+    height: 60vh;
+    /* width: 160vh; */
+
 }
