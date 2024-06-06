@@ -1,5 +1,5 @@
 
-p, h1 {
+/* p, h1 {
     color: aqua;
     border: 1px solid;
    
@@ -12,8 +12,12 @@ p, h1 {
 }
 .view1 {
     color: black;
-}
+} */
 
 body {
     font-family: ARIAL BLACK;
+  }
+
+  .container {
+    border: 1px solid black;
   }
