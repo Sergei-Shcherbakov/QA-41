@@ -16,6 +16,7 @@
 
 body {
     font-family: ARIAL BLACK;
+    background-color: aqua;
   }
 
   .container {
@@ -24,6 +25,7 @@ body {
     padding: 40px;
     flex-direction: row;
     justify-content: space-around;
+    background-color: chartreuse;
 
   }
 
