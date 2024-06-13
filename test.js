@@ -32,16 +32,15 @@
     // let i = 0;
     // while (i<5)
     // {
-    //     alert(i);
-    //     i++;
+        // alert(i);
+        // i++;
     // }
     // for (let i = 0; i < 5; i++) {
-    //     alert(i);
+        // alert(i);
         
     // }
     // let name = prompt('Введите ваше имя: ')
     // function funk (){
-    //     alert(`Приыет,${name}!`);
+        // alert(`Приыет,${name}!`);
     // }
     // funk();
-    alert ("Ghfgjkdhkfjdlkf");
